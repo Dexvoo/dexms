@@ -9,3 +9,6 @@ Put `ensure dexms` in your server.cfg
 # Coordinates
 `-3171.36, -344.6, 56.16`
 <br>`{x = -3171.36,  y = -344.6,  z = 56.16}`<br/>
+
+# Discord
+discord.gg/WU4rBBY6JJ

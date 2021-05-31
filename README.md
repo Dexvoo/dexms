@@ -1,6 +1,6 @@
 # DexMS
 
-This is my first converted map from Assetto Corsa to FiveM, Feel free to download and enjoy. This rescourse is optimised with no phyical memory warnings when the resource is started.
+This is my first converted map from Assetto Corsa to FiveM, Feel free to download and enjoy. This resource is optimised with no phyical memory warnings when the resource is started.
 
 # Instructions
 Put `ensure dexms` in your server.cfg
